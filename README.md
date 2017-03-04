@@ -4,7 +4,7 @@ This repository contains the examples for our [CMake tutorials](http://www.needf
 
 ## List of examples
 
-* Win32Console: a very simple example of how to create a console application for the Windows platform
+* HelloWorld: a very simple example of how to create a console application.
 
 ## License
 
