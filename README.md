@@ -2,6 +2,10 @@
 
 This repository contains the examples for our [CMake tutorials](http://www.needfulsoftware.com/CMake/Tutorials).
 
+## List of examples
+
+* Win32Console: a very simple example of how to create a console application for the Windows platform
+
 ## License
 
 Copyright (c) 2017 Xavier Leclercq
