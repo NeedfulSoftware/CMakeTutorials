@@ -4,7 +4,7 @@ This repository contains the examples for our [CMake tutorials](http://www.needf
 
 ## List of examples
 
-* HelloWorld: a very simple example of how to create a console application.
+* [HelloWorld](https://github.com/NeedfulSoftware/CMakeTutorials/tree/master/HelloWorld): a very simple example of how to create a console application.
 
 ## License
 
