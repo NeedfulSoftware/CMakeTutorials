@@ -1,6 +1,6 @@
 # CMake Tutorials
 
-This repository contains the examples for our [CMake tutorials](http://www.needfulsoftware.com/CMake/Tutorials).
+This repository contains the examples for our [CMake tutorials](http://www.needfulsoftware.com/CMake).
 
 ## List of examples
 
